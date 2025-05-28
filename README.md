@@ -22,4 +22,4 @@ Projects Overview
 
 🔗 Follow Me
 📌 LinkedIn: [https://www.linkedin.com/in/nigel-epperson-046998333/]
-🧪 Blog: [link coming soon]
+🧪 Blog: [(https://neppsypepsi.github.io/RedTeam-Summer-Lab-2025/)]
